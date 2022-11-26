@@ -8,7 +8,7 @@ class Main {
         System.out.println(book.getName()+" "+book.getYearOfPublication()+ " " +author.getName1() + " " + author.getsecondName());
         System.out.println(book2.getName()+" "+book2.getYearOfPublication()+ " " +author1.getName1() + " " + author1.getsecondName());
 
-
+// Вроде всё так)
 
 
 
